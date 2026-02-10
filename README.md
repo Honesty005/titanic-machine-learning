@@ -23,5 +23,5 @@ A Random Forest model was trained to classify whether a passenger survived.
 Public Kaggle score: **0.77511**
 
 ## Notes
-This project was created as a learning exercise to understand the end-to-end machine learning workflow.
+This project was created as a learning exercise to understand the end-to-end machine learning workflow..
 
